@@ -1,7 +1,7 @@
 # WebApiSwagger
 Clean and Simple ASP.NET Web API Swagger example with updated Swagger UI and API versioning support. This project can be used as a base template or source of inspiration.
 
-![Swagger UI](docs/swagger_ui.png "Swagger UI")
+![Swagger UI](/docs/swagger_ui.png "Swagger UI")
 
 ## Getting Started
 
