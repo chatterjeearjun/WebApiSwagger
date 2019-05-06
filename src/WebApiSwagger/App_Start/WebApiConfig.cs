@@ -44,7 +44,7 @@ namespace WebApiSwagger
         private static void RegisterSwagger(this HttpConfiguration configuration, VersionedApiExplorer apiExplorer)
         {
             configuration.EnableSwagger(
-                "{apiVersion}/swagger",
+                "{apiVersion}/swagger/docs",
                 swagger =>
                 {
                     swagger.MultipleApiVersions(
