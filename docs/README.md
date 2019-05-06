@@ -30,7 +30,7 @@ iisexpress /path:c:\<your_path>\WebApiSwagger\
 ```
 
 ## Usage example
-Open: ![localhost:8080/swagger](localhost:8080/swagger)
+Open: [localhost:8080/swagger](http://localhost:8080/swagger)
 
 ## Contributing
 1. Fork the Project.
@@ -40,7 +40,7 @@ Open: ![localhost:8080/swagger](localhost:8080/swagger)
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](docs/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/docs/LICENSE) file for details.
 
 ## Contact
-![Tomass Ramanausks](https://www.linkedin.com/in/yourtom/)
+[Tomass Ramanausks](https://www.linkedin.com/in/yourtom/)
