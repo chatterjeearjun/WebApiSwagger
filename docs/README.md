@@ -9,6 +9,7 @@ Clean and Simple ASP.NET Web API Swagger example with updated Swagger UI and API
 ```
 > Visual Studio
 > Nuget
+> IIS Express
 > NET Framework 4.7.2
 ```
 ### Installation
