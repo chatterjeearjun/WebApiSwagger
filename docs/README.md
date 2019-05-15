@@ -13,21 +13,28 @@ Clean and Simple ASP.NET Web API Swagger example with updated Swagger UI and API
 > NET Framework 4.7.2
 ```
 ### Installation
+
+1. Open WebApiSwagger.sln
+```
+Ctrl + F5
+``` 
+OR
+
 1. Clone the repo.
 ```
 git clone https://github.com/yourtom/WebApiSwagger.git
 ```
 2. Restore NuGet packages.
 ```
-nuget restore <your_path>\WebApiSwagger.sln
+nuget restore <your_path>\src\WebApiSwagger.sln
 ```
 3. Build solution.
 ```
-msbuild <your_path>\WebApiSwagger.sln /p:Configuration=Release
+msbuild <your_path>\src\WebApiSwagger.sln /p:Configuration=Release
 ```
 4. Run Application.
 ```
-iisexpress /path:c:\<your_path>\WebApiSwagger\
+iisexpress /path:c:\<your_path>\src\WebApiSwagger\
 ```
 
 ## Usage example
